@@ -2,7 +2,6 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Wujudkan Transparansi dalam Pungutan Pajak</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
